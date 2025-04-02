@@ -1,0 +1,4 @@
+node_modules/
+frontend/login-app/.next/
+frontend/login-app/node_modules/
+backend/node_modules/
